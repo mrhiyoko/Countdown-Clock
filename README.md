@@ -1,2 +1,2 @@
 # 29 Countdown-Clock
-Michał Gorzkowski, Semen Bilikiewicz
+Michał Gorzkowski [link](https://mrhiyoko.github.io/Countdown-Clock/index.html)
